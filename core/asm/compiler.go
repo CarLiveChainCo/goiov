@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/carlivechain/goiov/common/math"
-	"github.com/carlivechain/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/core/vm"
 )
 
 // Compiler contains information about the parsed source

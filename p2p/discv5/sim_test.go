@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 // In this test, nodes try to randomly resolve each other.

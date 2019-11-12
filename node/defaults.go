@@ -22,8 +22,8 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/p2p/nat"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/p2p/nat"
 )
 
 const (

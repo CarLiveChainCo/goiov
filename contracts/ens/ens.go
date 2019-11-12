@@ -23,11 +23,11 @@ package ens
 import (
 	"strings"
 
-	"github.com/carlivechain/goiov/accounts/abi/bind"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/contracts/ens/contract"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/contracts/ens/contract"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/crypto"
 )
 
 var (

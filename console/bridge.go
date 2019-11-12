@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/carlivechain/goiov/accounts/usbwallet"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/accounts/usbwallet"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/rpc"
 	"github.com/robertkrimen/otto"
 )
 

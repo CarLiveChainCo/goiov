@@ -23,8 +23,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 //metrics variables

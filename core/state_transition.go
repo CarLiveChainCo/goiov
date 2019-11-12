@@ -21,10 +21,10 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/vm"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 var (

@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 // Hash represents the 32 byte Keccak256 hash of arbitrary data.

@@ -27,8 +27,8 @@ import (
 
 	"reflect"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
 )
 
 const jsondata = `

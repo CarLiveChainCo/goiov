@@ -17,9 +17,9 @@
 package core
 
 import (
-	"github.com/carlivechain/goiov/core/state"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/core/state"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

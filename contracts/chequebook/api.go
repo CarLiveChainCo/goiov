@@ -20,7 +20,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 const Version = "1.0"

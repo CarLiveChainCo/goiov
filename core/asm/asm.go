@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/carlivechain/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/core/vm"
 )
 
 // Iterator for disassembled EVM instructions

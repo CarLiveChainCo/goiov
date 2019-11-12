@@ -22,9 +22,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/carlivechain/goiov/swarm/api"
-	httpapi "github.com/carlivechain/goiov/swarm/api/http"
-	"github.com/carlivechain/goiov/swarm/storage"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
+	httpapi "github.com/CarLiveChainCo/goiov/swarm/api/http"
+	"github.com/CarLiveChainCo/goiov/swarm/storage"
 )
 
 func NewTestSwarmServer(t *testing.T) *TestSwarmServer {

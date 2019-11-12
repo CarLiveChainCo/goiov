@@ -19,7 +19,7 @@ package state
 import (
 	"sync"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 type account struct {

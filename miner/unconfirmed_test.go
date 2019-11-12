@@ -19,8 +19,8 @@ package miner
 import (
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // noopHeaderRetriever is an implementation of headerRetriever that always

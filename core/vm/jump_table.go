@@ -20,7 +20,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 type (

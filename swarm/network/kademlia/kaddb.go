@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 type NodeData interface {

@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 // precompiledTest defines the input/output pairs for precompiled contract tests.

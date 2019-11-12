@@ -24,10 +24,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	"github.com/carlivechain/goiov/console"
-	"github.com/carlivechain/goiov/node"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/console"
+	"github.com/CarLiveChainCo/goiov/node"
+	"github.com/CarLiveChainCo/goiov/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 
@@ -43,7 +43,7 @@ var (
 		Description: `
 The Geth console is an interactive shell for the JavaScript runtime environment
 which exposes a node admin interface as well as the Ðapp JavaScript API.
-See https://github.com/carlivechain/goiov/wiki/JavaScript-Console.`,
+See https://github.com/CarLiveChainCo/goiov/wiki/JavaScript-Console.`,
 	}
 
 	attachCommand = cli.Command{
@@ -56,7 +56,7 @@ See https://github.com/carlivechain/goiov/wiki/JavaScript-Console.`,
 		Description: `
 The Geth console is an interactive shell for the JavaScript runtime environment
 which exposes a node admin interface as well as the Ðapp JavaScript API.
-See https://github.com/carlivechain/goiov/wiki/JavaScript-Console.
+See https://github.com/CarLiveChainCo/goiov/wiki/JavaScript-Console.
 This command allows to open a console on a running geth node.`,
 	}
 
@@ -69,7 +69,7 @@ This command allows to open a console on a running geth node.`,
 		Category:  "CONSOLE COMMANDS",
 		Description: `
 The JavaScript VM exposes a node admin interface as well as the Ðapp
-JavaScript API. See https://github.com/carlivechain/goiov/wiki/JavaScript-Console`,
+JavaScript API. See https://github.com/CarLiveChainCo/goiov/wiki/JavaScript-Console`,
 	}
 )
 

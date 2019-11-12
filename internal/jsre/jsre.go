@@ -26,8 +26,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/internal/jsre/deps"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/internal/jsre/deps"
 	"github.com/robertkrimen/otto"
 )
 

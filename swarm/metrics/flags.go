@@ -19,10 +19,10 @@ package metrics
 import (
 	"time"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	"github.com/carlivechain/goiov/log"
-	gethmetrics "github.com/carlivechain/goiov/metrics"
-	"github.com/carlivechain/goiov/metrics/influxdb"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/log"
+	gethmetrics "github.com/CarLiveChainCo/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/metrics/influxdb"
 	"gopkg.in/urfave/cli.v1"
 )
 

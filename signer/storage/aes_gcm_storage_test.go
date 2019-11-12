@@ -22,8 +22,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/log"
 	"github.com/mattn/go-colorable"
 )
 

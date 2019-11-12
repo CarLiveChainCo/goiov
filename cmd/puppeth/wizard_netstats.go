@@ -23,8 +23,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/log"
 	"github.com/olekukonko/tablewriter"
 )
 

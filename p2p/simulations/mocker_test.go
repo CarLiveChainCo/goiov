@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
 )
 
 func TestMocker(t *testing.T) {

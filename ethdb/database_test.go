@@ -25,7 +25,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 )
 
 func newTestLDB() (*ethdb.LDBDatabase, func()) {

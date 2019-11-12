@@ -23,10 +23,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/carlivechain/goiov/core/state"
-	"github.com/carlivechain/goiov/core/vm"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/tests"
+	"github.com/CarLiveChainCo/goiov/core/state"
+	"github.com/CarLiveChainCo/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/tests"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

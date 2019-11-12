@@ -7,8 +7,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
 )
 
 var _ = (*headerMarshaling)(nil)

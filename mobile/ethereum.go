@@ -21,8 +21,8 @@ package geth
 import (
 	"errors"
 
-	ethereum "github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/common"
+	ethereum "github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 // Subscription represents an event subscription where events are

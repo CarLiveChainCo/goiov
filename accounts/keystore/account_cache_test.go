@@ -27,8 +27,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/common"
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
 )

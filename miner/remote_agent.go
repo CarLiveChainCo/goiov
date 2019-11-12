@@ -23,13 +23,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/consensus"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/consensus"
 
-	//"github.com/carlivechain/goiov/consensus/alien"
-	"github.com/carlivechain/goiov/consensus/ethash"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/log"
+	//"github.com/CarLiveChainCo/goiov/consensus/alien"
+	"github.com/CarLiveChainCo/goiov/consensus/ethash"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 type hashrate struct {

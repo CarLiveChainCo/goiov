@@ -30,7 +30,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 	"github.com/davecgh/go-spew/spew"
 )
 

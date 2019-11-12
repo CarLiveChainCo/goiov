@@ -25,9 +25,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
-	whisper "github.com/carlivechain/goiov/whisper/whisperv6"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	whisper "github.com/CarLiveChainCo/goiov/whisper/whisperv6"
 )
 
 const powRequirement = 0.00001

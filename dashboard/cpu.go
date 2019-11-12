@@ -21,7 +21,7 @@ package dashboard
 import (
 	"syscall"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // getProcessCPUTime retrieves the process' CPU time since program startup.

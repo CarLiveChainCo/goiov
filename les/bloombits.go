@@ -19,8 +19,8 @@ package les
 import (
 	"time"
 
-	"github.com/carlivechain/goiov/common/bitutil"
-	"github.com/carlivechain/goiov/light"
+	"github.com/CarLiveChainCo/goiov/common/bitutil"
+	"github.com/CarLiveChainCo/goiov/light"
 )
 
 const (

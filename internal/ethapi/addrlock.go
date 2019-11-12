@@ -19,7 +19,7 @@ package ethapi
 import (
 	"sync"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 type AddrLocker struct {

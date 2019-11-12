@@ -20,8 +20,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/crypto"
 )
 
 // Tests that transactions can be added to strict lists and list contents and

@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 	"github.com/jackpal/go-nat-pmp"
 )
 

@@ -24,10 +24,10 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/consensus"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/consensus"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // Seal implements consensus.Engine, attempting to find a nonce that satisfies

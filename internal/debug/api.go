@@ -33,7 +33,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // Handler is the global debugging handler.

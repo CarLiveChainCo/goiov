@@ -22,10 +22,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/p2p/discover"
-	"github.com/carlivechain/goiov/p2p/simulations/adapters"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/p2p/simulations/adapters"
 )
 
 var errTimedOut = errors.New("timed out")

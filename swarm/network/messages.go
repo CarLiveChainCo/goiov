@@ -21,11 +21,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/carlivechain/goiov/contracts/chequebook"
-	"github.com/carlivechain/goiov/p2p/discover"
-	"github.com/carlivechain/goiov/swarm/network/kademlia"
-	"github.com/carlivechain/goiov/swarm/services/swap"
-	"github.com/carlivechain/goiov/swarm/storage"
+	"github.com/CarLiveChainCo/goiov/contracts/chequebook"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/swarm/network/kademlia"
+	"github.com/CarLiveChainCo/goiov/swarm/services/swap"
+	"github.com/CarLiveChainCo/goiov/swarm/storage"
 )
 
 /*

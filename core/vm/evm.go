@@ -17,14 +17,14 @@
 package vm
 
 import (
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 	"math/big"
 	"sync/atomic"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // emptyCodeHash is used by create to ensure deployment is disallowed to already

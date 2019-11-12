@@ -7,8 +7,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/math"
 )
 
 var _ = (*stEnvMarshaling)(nil)

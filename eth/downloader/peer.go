@@ -29,9 +29,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/event"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/event"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 const (

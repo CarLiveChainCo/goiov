@@ -19,7 +19,7 @@ package downloader
 import (
 	"fmt"
 
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // peerDropFn is a callback type for dropping a peer detected as malicious.

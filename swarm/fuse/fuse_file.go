@@ -26,8 +26,8 @@ import (
 
 	"bazil.org/fuse"
 	"bazil.org/fuse/fs"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/swarm/storage"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/swarm/storage"
 	"golang.org/x/net/context"
 )
 

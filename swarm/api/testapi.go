@@ -17,7 +17,7 @@
 package api
 
 import (
-	"github.com/carlivechain/goiov/swarm/network"
+	"github.com/CarLiveChainCo/goiov/swarm/network"
 )
 
 type Control struct {

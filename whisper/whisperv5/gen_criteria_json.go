@@ -5,7 +5,7 @@ package whisperv5
 import (
 	"encoding/json"
 
-	"github.com/carlivechain/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
 )
 
 var _ = (*criteriaOverride)(nil)

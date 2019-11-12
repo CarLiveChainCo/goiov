@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/event"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/event"
+	"github.com/CarLiveChainCo/goiov/log"
 	"github.com/karalabe/hid"
 )
 

@@ -34,7 +34,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

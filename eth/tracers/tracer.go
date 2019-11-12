@@ -25,11 +25,11 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
-	"github.com/carlivechain/goiov/core/vm"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/log"
 	duktape "gopkg.in/olebedev/go-duktape.v3"
 )
 

@@ -22,9 +22,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
-	"github.com/carlivechain/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common/math"
 )
 
 var (

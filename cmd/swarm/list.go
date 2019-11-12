@@ -22,8 +22,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	swarm "github.com/carlivechain/goiov/swarm/api/client"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	swarm "github.com/CarLiveChainCo/goiov/swarm/api/client"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -22,7 +22,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 // A BigInt represents a signed multi-precision integer.

@@ -20,9 +20,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 func TestEIP155Signing(t *testing.T) {

@@ -20,8 +20,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/math"
 )
 
 // packBytesSlice packs the given bytes as [L, V] as the canonical representation

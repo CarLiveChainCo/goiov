@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/swarm/api"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
 )
 
 const (

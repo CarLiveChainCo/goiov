@@ -19,10 +19,10 @@ package shhclient
 import (
 	"context"
 
-	"github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/common/hexutil"
-	"github.com/carlivechain/goiov/rpc"
-	whisper "github.com/carlivechain/goiov/whisper/whisperv6"
+	"github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/rpc"
+	whisper "github.com/CarLiveChainCo/goiov/whisper/whisperv6"
 )
 
 // Client defines typed wrappers for the Whisper v6 RPC API.

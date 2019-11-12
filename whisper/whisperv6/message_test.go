@@ -23,9 +23,9 @@ import (
 	mrand "math/rand"
 	"testing"
 
-	"github.com/carlivechain/goiov/common/hexutil"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 func generateMessageParams() (*MessageParams, error) {

@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/carlivechain/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/core/vm"
 )
 
 func TestState(t *testing.T) {

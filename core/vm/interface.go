@@ -19,8 +19,8 @@ package vm
 import (
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // StateDB is an EVM database for full state querying.

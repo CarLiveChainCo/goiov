@@ -20,12 +20,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/carlivechain/goiov/consensus/ethash"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/core/vm"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/ethdb"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/consensus/ethash"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 func ExampleGenerateChain() {

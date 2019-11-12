@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/carlivechain/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 var (

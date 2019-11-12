@@ -24,7 +24,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 type brokenLimitedReader struct {

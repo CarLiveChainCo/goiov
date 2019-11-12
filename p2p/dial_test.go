@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/p2p/discover"
-	"github.com/carlivechain/goiov/p2p/netutil"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/p2p/netutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

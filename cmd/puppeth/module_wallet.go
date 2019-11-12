@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // walletDockerfile is the Dockerfile required to run a web wallet.

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // deployEthstats queries the user for various input on deploying an ethstats

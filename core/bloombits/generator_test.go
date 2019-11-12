@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // Tests that batched bloom bits are correctly rotated from the input bloom

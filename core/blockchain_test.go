@@ -24,15 +24,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/consensus/ethash"
-	"github.com/carlivechain/goiov/core/rawdb"
-	"github.com/carlivechain/goiov/core/state"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/core/vm"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/ethdb"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/consensus/ethash"
+	"github.com/CarLiveChainCo/goiov/core/rawdb"
+	"github.com/CarLiveChainCo/goiov/core/state"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // Test fork of length N starting from block i
@@ -1197,7 +1197,7 @@ func TestEIP161AccountRemoval(t *testing.T) {
 // tests that under weird reorg conditions the blockchain and its internal header-
 // chain return the same latest block/header.
 //
-// https://github.com/carlivechain/goiov/pull/15941
+// https://github.com/CarLiveChainCo/goiov/pull/15941
 func TestBlockchainHeaderchainReorgConsistency(t *testing.T) {
 	// Generate a canonical chain to act as the main dataset
 	engine := ethash.NewFaker()

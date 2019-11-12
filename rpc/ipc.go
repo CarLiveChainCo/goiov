@@ -20,8 +20,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/p2p/netutil"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/p2p/netutil"
 )
 
 // ServeListener accepts connections on l, serving JSON-RPC on them.

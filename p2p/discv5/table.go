@@ -29,7 +29,7 @@ import (
 	"net"
 	"sort"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 const (

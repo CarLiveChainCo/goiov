@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 // ContractRef is a reference to the contract's backing object

@@ -22,8 +22,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/carlivechain/goiov/accounts/abi"
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/accounts/abi"
+	"github.com/CarLiveChainCo/goiov/common"
 
 	"bytes"
 	"os"

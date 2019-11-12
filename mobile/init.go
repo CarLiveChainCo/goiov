@@ -22,7 +22,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 func init() {

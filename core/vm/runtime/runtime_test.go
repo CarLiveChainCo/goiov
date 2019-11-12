@@ -21,11 +21,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/carlivechain/goiov/accounts/abi"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/state"
-	"github.com/carlivechain/goiov/core/vm"
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/accounts/abi"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/state"
+	"github.com/CarLiveChainCo/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 )
 
 func TestDefaults(t *testing.T) {

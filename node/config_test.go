@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

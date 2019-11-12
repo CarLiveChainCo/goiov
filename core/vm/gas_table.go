@@ -17,9 +17,9 @@
 package vm
 
 import (
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/math"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // memoryGasCosts calculates the quadratic gas for memory expansion. It does so

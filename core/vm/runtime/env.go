@@ -17,9 +17,9 @@
 package runtime
 
 import (
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

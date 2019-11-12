@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // deployWallet creates a new web wallet based on some user input.

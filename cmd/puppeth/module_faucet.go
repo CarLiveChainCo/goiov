@@ -26,8 +26,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // faucetDockerfile is the Dockerfile required to build a faucet container to

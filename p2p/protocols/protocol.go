@@ -34,7 +34,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/carlivechain/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/p2p"
 )
 
 // error codes used by this  protocol scheme

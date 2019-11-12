@@ -26,7 +26,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 const (

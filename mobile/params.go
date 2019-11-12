@@ -21,9 +21,9 @@ package geth
 import (
 	"encoding/json"
 
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/p2p/discv5"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/p2p/discv5"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // MainnetGenesis returns the JSON spec to use for the main Ethereum network. It

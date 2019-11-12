@@ -20,8 +20,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

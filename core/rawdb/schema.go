@@ -20,8 +20,8 @@ package rawdb
 import (
 	"encoding/binary"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 // The fields below define the low level database schema prefixing.

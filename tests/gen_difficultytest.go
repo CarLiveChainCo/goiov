@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/math"
 )
 
 var _ = (*difficultyTestMarshaling)(nil)

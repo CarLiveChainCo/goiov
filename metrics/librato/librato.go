@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 // a regexp for extracting the unit from time.Duration.String

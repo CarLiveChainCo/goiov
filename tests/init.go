@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // Forks table defines supported forks and their chain config.

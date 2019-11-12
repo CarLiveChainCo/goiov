@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/carlivechain/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/common/math"
 )
 
 func memorySha3(stack *Stack) *big.Int {

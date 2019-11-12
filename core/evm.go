@@ -19,10 +19,10 @@ package core
 import (
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/consensus"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/consensus"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/core/vm"
 )
 
 // ChainContext supports retrieving headers and consensus parameters from the

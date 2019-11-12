@@ -26,10 +26,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/carlivechain/goiov/cmd/internal/browser"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/cmd/internal/browser"
+	"github.com/CarLiveChainCo/goiov/params"
 
-	"github.com/carlivechain/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
 	cli "gopkg.in/urfave/cli.v1"
 )
 
@@ -41,7 +41,7 @@ var bugCommand = cli.Command{
 	Category:  "MISCELLANEOUS COMMANDS",
 }
 
-const issueURL = "https://github.com/carlivechain/goiov/issues/new"
+const issueURL = "https://github.com/CarLiveChainCo/goiov/issues/new"
 
 // reportBug reports a bug by opening a new URL to the go-ethereum GH issue
 // tracker and setting default values as the issue body.

@@ -25,7 +25,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 const (

@@ -19,8 +19,8 @@ package state
 import (
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 )
 
 var addr = common.BytesToAddress([]byte("test"))

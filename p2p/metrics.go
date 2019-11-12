@@ -21,7 +21,7 @@ package p2p
 import (
 	"net"
 
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 var (

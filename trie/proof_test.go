@@ -23,9 +23,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 )
 
 func init() {

@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 type exp struct {

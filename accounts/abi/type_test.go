@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 	"github.com/davecgh/go-spew/spew"
 )
 

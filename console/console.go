@@ -28,9 +28,9 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/carlivechain/goiov/internal/jsre"
-	"github.com/carlivechain/goiov/internal/web3ext"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/internal/jsre"
+	"github.com/CarLiveChainCo/goiov/internal/web3ext"
+	"github.com/CarLiveChainCo/goiov/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 	"github.com/robertkrimen/otto"

@@ -24,8 +24,8 @@ import (
 
 	"strings"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	"github.com/carlivechain/goiov/internal/debug"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/internal/debug"
 	"gopkg.in/urfave/cli.v1"
 )
 

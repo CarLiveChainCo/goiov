@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/carlivechain/goiov/cmd/evm/internal/compiler"
+	"github.com/CarLiveChainCo/goiov/cmd/evm/internal/compiler"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/rpc"
 )
 
 var (

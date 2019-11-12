@@ -21,8 +21,8 @@ import (
 
 	"sync/atomic"
 
-	"github.com/carlivechain/goiov/consensus"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/consensus"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 type CpuAgent struct {

@@ -19,7 +19,7 @@ package storage
 import (
 	"encoding/binary"
 
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 //metrics variables

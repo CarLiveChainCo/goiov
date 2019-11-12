@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	"github.com/carlivechain/goiov/swarm/storage"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/swarm/storage"
 	"gopkg.in/urfave/cli.v1"
 )
 

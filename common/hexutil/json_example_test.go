@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/carlivechain/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
 )
 
 type MyType [5]byte

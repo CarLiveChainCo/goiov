@@ -22,12 +22,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/accounts/abi/bind"
-	"github.com/carlivechain/goiov/accounts/abi/bind/backends"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind/backends"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/crypto"
 )
 
 var testKey, _ = crypto.HexToECDSA("b71c71a67e1177ad4e901695e1b4b9ee17ae16c6668d313eac2f96dbcda3f291")

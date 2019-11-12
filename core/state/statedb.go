@@ -24,12 +24,12 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/rlp"
-	"github.com/carlivechain/goiov/trie"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/trie"
 )
 
 type revision struct {
@@ -495,7 +495,7 @@ func (self *StateDB) Copy() *StateDB {
 	}
 	// Copy the dirty states, logs, and preimages
 	for addr := range self.journal.dirties {
-		// As documented [here](https://github.com/carlivechain/goiov/pull/16485#issuecomment-380438527),
+		// As documented [here](https://github.com/CarLiveChainCo/goiov/pull/16485#issuecomment-380438527),
 		// and in the Finalise-method, there is a case where an object is in the journal but not
 		// in the stateObjects: OOG after touch on ripeMD prior to Byzantium. Thus, we need to check for
 		// nil

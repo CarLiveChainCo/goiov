@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

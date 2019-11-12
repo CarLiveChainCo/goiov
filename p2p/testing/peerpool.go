@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
 )
 
 type TestPeer interface {

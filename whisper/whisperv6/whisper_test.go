@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 	"golang.org/x/crypto/pbkdf2"
 )
 

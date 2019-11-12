@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 )
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.

@@ -19,8 +19,8 @@ package les
 import (
 	"sync"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 type ltrInfo struct {

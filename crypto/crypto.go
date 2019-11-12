@@ -28,10 +28,10 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/math"
-	"github.com/carlivechain/goiov/crypto/sha3"
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/crypto/sha3"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 var (

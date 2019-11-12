@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/carlivechain/goiov/eth/tracers/internal/tracers"
+	"github.com/CarLiveChainCo/goiov/eth/tracers/internal/tracers"
 )
 
 // all contains all the built in JavaScript tracers by name.

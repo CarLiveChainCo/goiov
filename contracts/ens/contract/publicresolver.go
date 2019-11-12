@@ -7,12 +7,12 @@ import (
 	"math/big"
 	"strings"
 
-	ethereum "github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/accounts/abi"
-	"github.com/carlivechain/goiov/accounts/abi/bind"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/event"
+	ethereum "github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/accounts/abi"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/event"
 )
 
 // PublicResolverABI is the input ABI used to generate the binding from.

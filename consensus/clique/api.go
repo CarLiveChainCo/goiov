@@ -17,10 +17,10 @@
 package clique
 
 import (
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/consensus"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/consensus"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/rpc"
 )
 
 // API is a user facing RPC API to allow controlling the signer and voting

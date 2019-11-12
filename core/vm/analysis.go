@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 // destinations stores one map per contract (keyed by hash of code).

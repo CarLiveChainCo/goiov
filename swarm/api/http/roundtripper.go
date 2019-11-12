@@ -20,17 +20,17 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 /*
 http roundtripper to register for bzz url scheme
-see https://github.com/carlivechain/goiov/issues/2040
+see https://github.com/CarLiveChainCo/goiov/issues/2040
 Usage:
 
 import (
- "github.com/carlivechain/goiov/common/httpclient"
- "github.com/carlivechain/goiov/swarm/api/http"
+ "github.com/CarLiveChainCo/goiov/common/httpclient"
+ "github.com/CarLiveChainCo/goiov/swarm/api/http"
 )
 client := httpclient.New()
 // for (private) swarm proxy running locally

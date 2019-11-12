@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	ethereum "github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/log"
+	ethereum "github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/log"
 	"github.com/karalabe/hid"
 )
 

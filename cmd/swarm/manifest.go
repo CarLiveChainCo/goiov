@@ -24,9 +24,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	"github.com/carlivechain/goiov/swarm/api"
-	swarm "github.com/carlivechain/goiov/swarm/api/client"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
+	swarm "github.com/CarLiveChainCo/goiov/swarm/api/client"
 	"gopkg.in/urfave/cli.v1"
 )
 

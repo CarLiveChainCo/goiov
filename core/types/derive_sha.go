@@ -19,9 +19,9 @@ package types
 import (
 	"bytes"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/rlp"
-	"github.com/carlivechain/goiov/trie"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/trie"
 )
 
 type DerivableList interface {

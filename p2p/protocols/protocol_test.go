@@ -23,10 +23,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/p2p/discover"
-	"github.com/carlivechain/goiov/p2p/simulations/adapters"
-	p2ptest "github.com/carlivechain/goiov/p2p/testing"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/p2p/simulations/adapters"
+	p2ptest "github.com/CarLiveChainCo/goiov/p2p/testing"
 )
 
 // handshake message type

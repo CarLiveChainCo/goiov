@@ -19,10 +19,10 @@ package core
 import (
 	"fmt"
 
-	"github.com/carlivechain/goiov/consensus"
-	"github.com/carlivechain/goiov/core/state"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/consensus"
+	"github.com/CarLiveChainCo/goiov/core/state"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // BlockValidator is responsible for validating block headers, uncles and

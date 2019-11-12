@@ -23,7 +23,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/carlivechain/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
 	"gopkg.in/fatih/set.v0"
 )
 

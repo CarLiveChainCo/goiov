@@ -19,8 +19,8 @@
 package whisperv5
 
 import (
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
 )
 
 // TopicType represents a cryptographically secure, probabilistic partial

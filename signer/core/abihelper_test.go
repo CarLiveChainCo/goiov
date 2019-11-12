@@ -25,8 +25,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/carlivechain/goiov/accounts/abi"
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/accounts/abi"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 func verify(t *testing.T, jsondata, calldata string, exp []interface{}) {

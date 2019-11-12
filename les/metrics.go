@@ -17,8 +17,8 @@
 package les
 
 import (
-	"github.com/carlivechain/goiov/metrics"
-	"github.com/carlivechain/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/p2p"
 )
 
 var (

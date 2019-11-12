@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {

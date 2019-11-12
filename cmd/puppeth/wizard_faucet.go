@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/carlivechain/goiov/accounts/keystore"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/accounts/keystore"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // deployFaucet queries the user for various input on deploying a faucet, after

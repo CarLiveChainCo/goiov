@@ -20,9 +20,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/carlivechain/goiov/core/rawdb"
-	"github.com/carlivechain/goiov/eth/downloader"
-	"github.com/carlivechain/goiov/light"
+	"github.com/CarLiveChainCo/goiov/core/rawdb"
+	"github.com/CarLiveChainCo/goiov/eth/downloader"
+	"github.com/CarLiveChainCo/goiov/light"
 )
 
 // syncer is responsible for periodically synchronising with the network, both

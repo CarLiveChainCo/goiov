@@ -26,11 +26,11 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/swarm/api"
-	swarm "github.com/carlivechain/goiov/swarm/api/client"
-	"github.com/carlivechain/goiov/swarm/storage"
-	"github.com/carlivechain/goiov/swarm/testutil"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
+	swarm "github.com/CarLiveChainCo/goiov/swarm/api/client"
+	"github.com/CarLiveChainCo/goiov/swarm/storage"
+	"github.com/CarLiveChainCo/goiov/swarm/testutil"
 )
 
 func TestBzzGetPath(t *testing.T) {

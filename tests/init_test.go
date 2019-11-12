@@ -29,7 +29,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 var (

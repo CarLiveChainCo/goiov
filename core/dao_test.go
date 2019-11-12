@@ -20,10 +20,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/carlivechain/goiov/consensus/ethash"
-	"github.com/carlivechain/goiov/core/vm"
-	"github.com/carlivechain/goiov/ethdb"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/consensus/ethash"
+	"github.com/CarLiveChainCo/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing

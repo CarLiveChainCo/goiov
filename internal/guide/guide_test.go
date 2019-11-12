@@ -30,8 +30,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/accounts/keystore"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/accounts/keystore"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // Tests that the account management snippets work correctly.

@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/mclock"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/mclock"
 )
 
 func TestTopicRadius(t *testing.T) {

@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	ethereum "github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/event"
-	"github.com/carlivechain/goiov/rpc"
+	ethereum "github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/event"
+	"github.com/CarLiveChainCo/goiov/rpc"
 )
 
 // PublicDownloaderAPI provides an API which gives information about the current synchronisation status.

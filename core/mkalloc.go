@@ -34,8 +34,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 type allocItem struct{ Addr, Balance *big.Int }

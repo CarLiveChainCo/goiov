@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 	"gopkg.in/urfave/cli.v1"
 )
 

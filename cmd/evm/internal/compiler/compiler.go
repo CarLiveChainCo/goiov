@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/carlivechain/goiov/core/asm"
+	"github.com/CarLiveChainCo/goiov/core/asm"
 )
 
 func Compile(fn string, src []byte, debug bool) (string, error) {

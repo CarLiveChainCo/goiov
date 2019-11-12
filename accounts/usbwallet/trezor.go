@@ -27,12 +27,12 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/accounts/usbwallet/internal/trezor"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/accounts/usbwallet/internal/trezor"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/log"
 	"github.com/golang/protobuf/proto"
 )
 

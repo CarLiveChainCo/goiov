@@ -33,7 +33,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/carlivechain/goiov/swarm/api"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
 )
 
 var (

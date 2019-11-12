@@ -26,7 +26,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 	"github.com/stretchr/testify/require"
 )
 

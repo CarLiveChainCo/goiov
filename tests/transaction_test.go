@@ -20,7 +20,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 func TestTransaction(t *testing.T) {

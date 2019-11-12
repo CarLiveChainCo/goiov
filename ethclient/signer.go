@@ -20,8 +20,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // senderFromServer is a types.Signer that remembers the sender address returned by the RPC

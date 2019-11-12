@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // deployDashboard queries the user for various input on deploying a web-service

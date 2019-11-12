@@ -25,10 +25,10 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // makeGenesis creates a new genesis struct based on some user input.

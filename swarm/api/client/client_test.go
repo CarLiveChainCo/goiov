@@ -25,8 +25,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/carlivechain/goiov/swarm/api"
-	"github.com/carlivechain/goiov/swarm/testutil"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
+	"github.com/CarLiveChainCo/goiov/swarm/testutil"
 )
 
 // TestClientUploadDownloadRaw test uploading and downloading raw data to swarm

@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"github.com/carlivechain/goiov/common/math"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // Config are the configuration options for the Interpreter

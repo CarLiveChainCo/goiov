@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 /*

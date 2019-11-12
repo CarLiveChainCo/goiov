@@ -28,13 +28,13 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/node"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/node"
 	"github.com/naoina/toml"
 
-	bzzapi "github.com/carlivechain/goiov/swarm/api"
+	bzzapi "github.com/CarLiveChainCo/goiov/swarm/api"
 )
 
 var (
@@ -84,7 +84,7 @@ var tomlSettings = toml.Config{
 	MissingField: func(rt reflect.Type, field string) error {
 		link := ""
 		if unicode.IsUpper(rune(rt.Name()[0])) && rt.PkgPath() != "main" {
-			link = fmt.Sprintf(", check github.com/carlivechain/goiov/swarm/api/config.go for available fields")
+			link = fmt.Sprintf(", check github.com/CarLiveChainCo/goiov/swarm/api/config.go for available fields")
 		}
 		return fmt.Errorf("field '%s' is not defined in %s%s", field, rt.String(), link)
 	},

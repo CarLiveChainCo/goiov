@@ -25,15 +25,15 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/accounts/keystore"
-	"github.com/carlivechain/goiov/accounts/usbwallet"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/internal/ethapi"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/accounts/keystore"
+	"github.com/CarLiveChainCo/goiov/accounts/usbwallet"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/internal/ethapi"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 // ExternalAPI defines the external API through which signing requests are made.
@@ -383,7 +383,7 @@ func (api *SignerAPI) SignTransaction(ctx context.Context, args SendTxArgs, meth
 //
 // The key used to calculate the signature is decrypted with the given password.
 //
-// https://github.com/carlivechain/goiov/wiki/Management-APIs#personal_sign
+// https://github.com/CarLiveChainCo/goiov/wiki/Management-APIs#personal_sign
 func (api *SignerAPI) Sign(ctx context.Context, addr common.MixedcaseAddress, data hexutil.Bytes) (hexutil.Bytes, error) {
 	sighash, msg := SignHash(data)
 	// We make the request prior to looking up if we actually have the account, to prevent
@@ -422,7 +422,7 @@ func (api *SignerAPI) Sign(ctx context.Context, addr common.MixedcaseAddress, da
 // Note, the signature must conform to the secp256k1 curve R, S and V values, where
 // the V value must be be 27 or 28 for legacy reasons.
 //
-// https://github.com/carlivechain/goiov/wiki/Management-APIs#personal_ecRecover
+// https://github.com/CarLiveChainCo/goiov/wiki/Management-APIs#personal_ecRecover
 func (api *SignerAPI) EcRecover(ctx context.Context, data, sig hexutil.Bytes) (common.Address, error) {
 	if len(sig) != 65 {
 		return common.Address{}, fmt.Errorf("signature must be 65 bytes long")

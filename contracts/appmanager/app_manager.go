@@ -1,9 +1,9 @@
 package appmanager
 
 import (
-	"github.com/carlivechain/goiov/accounts/abi/bind"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/contracts/appmanager/contract"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/contracts/appmanager/contract"
 )
 
 var (

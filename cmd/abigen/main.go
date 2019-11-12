@@ -24,8 +24,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/carlivechain/goiov/accounts/abi/bind"
-	"github.com/carlivechain/goiov/common/compiler"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind"
+	"github.com/CarLiveChainCo/goiov/common/compiler"
 )
 
 var (

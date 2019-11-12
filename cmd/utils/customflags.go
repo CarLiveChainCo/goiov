@@ -27,7 +27,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/carlivechain/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/common/math"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -20,10 +20,10 @@ package accounts
 import (
 	"math/big"
 
-	ethereum "github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/event"
+	ethereum "github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/event"
 )
 
 // Account represents an Ethereum account located at a specific location defined

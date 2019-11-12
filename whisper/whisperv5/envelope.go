@@ -26,11 +26,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/math"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/crypto/ecies"
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/crypto/ecies"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 // Envelope represents a clear-text data packet to transmit through the Whisper

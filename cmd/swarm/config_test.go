@@ -25,9 +25,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/rpc"
-	"github.com/carlivechain/goiov/swarm"
-	"github.com/carlivechain/goiov/swarm/api"
+	"github.com/CarLiveChainCo/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/swarm"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
 
 	"github.com/docker/docker/pkg/reexec"
 )

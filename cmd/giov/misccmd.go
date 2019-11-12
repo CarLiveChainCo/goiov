@@ -24,10 +24,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/carlivechain/goiov/cmd/utils"
-	"github.com/carlivechain/goiov/consensus/ethash"
-	"github.com/carlivechain/goiov/eth"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/cmd/utils"
+	"github.com/CarLiveChainCo/goiov/consensus/ethash"
+	"github.com/CarLiveChainCo/goiov/eth"
+	"github.com/CarLiveChainCo/goiov/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

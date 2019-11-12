@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/carlivechain/goiov/event"
+	"github.com/CarLiveChainCo/goiov/event"
 )
 
 func ExampleFeed_acknowledgedEvents() {

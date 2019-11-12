@@ -19,7 +19,7 @@ package bloombits
 import (
 	"errors"
 
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // errSectionOutOfBounds is returned if the user tried to add more bloom filters

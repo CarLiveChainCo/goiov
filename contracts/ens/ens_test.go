@@ -20,11 +20,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/carlivechain/goiov/accounts/abi/bind"
-	"github.com/carlivechain/goiov/accounts/abi/bind/backends"
-	"github.com/carlivechain/goiov/contracts/ens/contract"
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind"
+	"github.com/CarLiveChainCo/goiov/accounts/abi/bind/backends"
+	"github.com/CarLiveChainCo/goiov/contracts/ens/contract"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/crypto"
 )
 
 var (

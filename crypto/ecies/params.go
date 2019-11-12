@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/carlivechain/goiov/crypto"
+	ethcrypto "github.com/CarLiveChainCo/goiov/crypto"
 )
 
 var (

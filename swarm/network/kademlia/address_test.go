@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 func (Address) Generate(rand *rand.Rand, size int) reflect.Value {

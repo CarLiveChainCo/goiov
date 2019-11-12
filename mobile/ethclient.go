@@ -21,8 +21,8 @@ package geth
 import (
 	"math/big"
 
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/ethclient"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/ethclient"
 )
 
 // EthereumClient provides access to the Ethereum APIs.

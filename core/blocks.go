@@ -16,7 +16,7 @@
 
 package core
 
-import "github.com/carlivechain/goiov/common"
+import "github.com/CarLiveChainCo/goiov/common"
 
 // BadHashes represent a set of manually tracked bad hashes (usually hard forks)
 var BadHashes = map[common.Hash]bool{

@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/common/mclock"
+	"github.com/CarLiveChainCo/goiov/common/mclock"
 )
 
 // Subscription represents a stream of events. The carrier of the events is typically a

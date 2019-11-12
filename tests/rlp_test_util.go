@@ -24,7 +24,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 // RLPTest is the JSON structure of a single RLP test.

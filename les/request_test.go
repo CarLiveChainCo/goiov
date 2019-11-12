@@ -21,12 +21,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/rawdb"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/eth"
-	"github.com/carlivechain/goiov/ethdb"
-	"github.com/carlivechain/goiov/light"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/rawdb"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/eth"
+	"github.com/CarLiveChainCo/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/light"
 )
 
 var testBankSecureTrieKey = secAddr(testBankAddress)

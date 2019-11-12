@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // explorerDockerfile is the Dockerfile required to run a block explorer.

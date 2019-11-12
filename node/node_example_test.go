@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/carlivechain/goiov/node"
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/node"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/rpc"
 )
 
 // SampleService is a trivial network service that can be attached to a node for

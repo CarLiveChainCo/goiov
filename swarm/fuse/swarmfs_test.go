@@ -27,8 +27,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/carlivechain/goiov/swarm/api"
-	"github.com/carlivechain/goiov/swarm/storage"
+	"github.com/CarLiveChainCo/goiov/swarm/api"
+	"github.com/CarLiveChainCo/goiov/swarm/storage"
 )
 
 type fileInfo struct {

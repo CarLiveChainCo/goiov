@@ -16,7 +16,7 @@
 
 package ethclient
 
-import "github.com/carlivechain/goiov"
+import "github.com/CarLiveChainCo/goiov"
 
 // Verify that Client implements the ethereum interfaces.
 var (

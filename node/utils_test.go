@@ -22,8 +22,8 @@ package node
 import (
 	"reflect"
 
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/rpc"
 )
 
 // NoopService is a trivial implementation of the Service interface.

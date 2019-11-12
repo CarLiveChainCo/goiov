@@ -25,8 +25,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/crypto"
 	"github.com/pborman/uuid"
 	"golang.org/x/crypto/pbkdf2"
 )

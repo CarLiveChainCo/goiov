@@ -7,10 +7,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
-	"github.com/carlivechain/goiov/common/math"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 var _ = (*genesisSpecMarshaling)(nil)

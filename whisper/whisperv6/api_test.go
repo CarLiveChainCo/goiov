@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 	set "gopkg.in/fatih/set.v0"
 )
 

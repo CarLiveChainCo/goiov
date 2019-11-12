@@ -20,7 +20,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 /*

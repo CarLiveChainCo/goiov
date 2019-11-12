@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 	set "gopkg.in/fatih/set.v0"
 )
 

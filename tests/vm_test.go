@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/carlivechain/goiov/core/vm"
+	"github.com/CarLiveChainCo/goiov/core/vm"
 )
 
 func TestVM(t *testing.T) {

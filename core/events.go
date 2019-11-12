@@ -17,8 +17,8 @@
 package core
 
 import (
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // NewTxsEvent is posted when a batch of transactions enter the transaction pool.

@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 func TestWhisperBasic(t *testing.T) {

@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/carlivechain/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.

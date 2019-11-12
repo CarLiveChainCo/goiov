@@ -23,8 +23,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 // Tests that voting is evaluated correctly for various simple and complex scenarios.

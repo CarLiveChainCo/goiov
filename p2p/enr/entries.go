@@ -22,8 +22,8 @@ import (
 	"io"
 	"net"
 
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/rlp"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/rlp"
 )
 
 // Entry is implemented by known node record entry types.

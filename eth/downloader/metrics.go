@@ -19,7 +19,7 @@
 package downloader
 
 import (
-	"github.com/carlivechain/goiov/metrics"
+	"github.com/CarLiveChainCo/goiov/metrics"
 )
 
 var (

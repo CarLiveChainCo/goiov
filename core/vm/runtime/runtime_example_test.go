@@ -19,8 +19,8 @@ package runtime_test
 import (
 	"fmt"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/vm/runtime"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/vm/runtime"
 )
 
 func ExampleExecute() {

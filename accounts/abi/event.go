@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

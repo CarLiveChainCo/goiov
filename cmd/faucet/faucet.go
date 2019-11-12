@@ -41,23 +41,23 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/accounts/keystore"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/eth"
-	"github.com/carlivechain/goiov/eth/downloader"
-	"github.com/carlivechain/goiov/ethclient"
-	"github.com/carlivechain/goiov/ethstats"
-	"github.com/carlivechain/goiov/les"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/node"
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/p2p/discover"
-	"github.com/carlivechain/goiov/p2p/discv5"
-	"github.com/carlivechain/goiov/p2p/nat"
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/accounts/keystore"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/eth"
+	"github.com/CarLiveChainCo/goiov/eth/downloader"
+	"github.com/CarLiveChainCo/goiov/ethclient"
+	"github.com/CarLiveChainCo/goiov/ethstats"
+	"github.com/CarLiveChainCo/goiov/les"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/node"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/p2p/discv5"
+	"github.com/CarLiveChainCo/goiov/p2p/nat"
+	"github.com/CarLiveChainCo/goiov/params"
 	"golang.org/x/net/websocket"
 )
 
@@ -450,7 +450,7 @@ func (f *faucet) apiHandler(conn *websocket.Conn) {
 		case *noauthFlag:
 			username, avatar, address, err = authNoAuth(msg.URL)
 		default:
-			err = errors.New("Something funky happened, please open an issue at https://github.com/carlivechain/goiov/issues")
+			err = errors.New("Something funky happened, please open an issue at https://github.com/CarLiveChainCo/goiov/issues")
 		}
 		if err != nil {
 			if err = sendError(conn, err); err != nil {

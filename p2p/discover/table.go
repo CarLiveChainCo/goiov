@@ -33,10 +33,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/log"
-	"github.com/carlivechain/goiov/p2p/netutil"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/log"
+	"github.com/CarLiveChainCo/goiov/p2p/netutil"
 )
 
 const (

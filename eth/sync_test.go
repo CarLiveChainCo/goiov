@@ -21,9 +21,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/eth/downloader"
-	"github.com/carlivechain/goiov/p2p"
-	"github.com/carlivechain/goiov/p2p/discover"
+	"github.com/CarLiveChainCo/goiov/eth/downloader"
+	"github.com/CarLiveChainCo/goiov/p2p"
+	"github.com/CarLiveChainCo/goiov/p2p/discover"
 )
 
 // Tests that fast sync gets disabled as soon as a real block is successfully

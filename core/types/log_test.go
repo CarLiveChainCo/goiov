@@ -22,8 +22,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/common/hexutil"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common/hexutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

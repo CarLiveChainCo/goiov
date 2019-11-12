@@ -19,7 +19,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/carlivechain/goiov/params"
+	"github.com/CarLiveChainCo/goiov/params"
 )
 
 func makeStackFunc(pop, push int) stackValidationFunc {

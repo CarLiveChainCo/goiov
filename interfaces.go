@@ -22,8 +22,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // NotFound is returned by API methods if the requested item does not exist.

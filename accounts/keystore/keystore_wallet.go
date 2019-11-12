@@ -19,9 +19,9 @@ package keystore
 import (
 	"math/big"
 
-	ethereum "github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/accounts"
-	"github.com/carlivechain/goiov/core/types"
+	ethereum "github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/accounts"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

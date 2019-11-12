@@ -29,7 +29,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 	"golang.org/x/net/websocket"
 	"gopkg.in/fatih/set.v0"
 )

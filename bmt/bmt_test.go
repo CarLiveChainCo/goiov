@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/carlivechain/goiov/crypto/sha3"
+	"github.com/CarLiveChainCo/goiov/crypto/sha3"
 )
 
 const (

@@ -19,7 +19,7 @@ package swarm
 import (
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
+	"github.com/CarLiveChainCo/goiov/common"
 )
 
 func TestParseEnsAPIAddress(t *testing.T) {

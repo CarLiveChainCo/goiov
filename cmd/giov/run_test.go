@@ -22,7 +22,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/carlivechain/goiov/internal/cmdtest"
+	"github.com/CarLiveChainCo/goiov/internal/cmdtest"
 	"github.com/docker/docker/pkg/reexec"
 )
 

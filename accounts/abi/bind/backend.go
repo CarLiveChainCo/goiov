@@ -21,9 +21,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/carlivechain/goiov"
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core/types"
 )
 
 var (

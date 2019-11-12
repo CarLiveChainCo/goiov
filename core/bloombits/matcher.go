@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/carlivechain/goiov/common/bitutil"
-	"github.com/carlivechain/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/common/bitutil"
+	"github.com/CarLiveChainCo/goiov/crypto"
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

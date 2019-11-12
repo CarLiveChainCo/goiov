@@ -27,10 +27,10 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/crypto"
-	"github.com/carlivechain/goiov/crypto/ecies"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/crypto"
+	"github.com/CarLiveChainCo/goiov/crypto/ecies"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // MessageParams specifies the exact way a message should be wrapped into an Envelope.

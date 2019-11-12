@@ -19,11 +19,11 @@ package downloader
 import (
 	"math/big"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/core"
-	"github.com/carlivechain/goiov/core/rawdb"
-	"github.com/carlivechain/goiov/core/types"
-	"github.com/carlivechain/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/core"
+	"github.com/CarLiveChainCo/goiov/core/rawdb"
+	"github.com/CarLiveChainCo/goiov/core/types"
+	"github.com/CarLiveChainCo/goiov/ethdb"
 )
 
 // FakePeer is a mock downloader peer that operates on a local database instance

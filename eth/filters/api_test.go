@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/rpc"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/rpc"
 )
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {

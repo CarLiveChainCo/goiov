@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/carlivechain/goiov/common"
-	"github.com/carlivechain/goiov/ethdb"
-	"github.com/carlivechain/goiov/trie"
+	"github.com/CarLiveChainCo/goiov/common"
+	"github.com/CarLiveChainCo/goiov/ethdb"
+	"github.com/CarLiveChainCo/goiov/trie"
 	"github.com/hashicorp/golang-lru"
 )
 

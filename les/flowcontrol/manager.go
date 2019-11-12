@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/carlivechain/goiov/common/mclock"
+	"github.com/CarLiveChainCo/goiov/common/mclock"
 )
 
 const rcConst = 1000000

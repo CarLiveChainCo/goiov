@@ -23,8 +23,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/carlivechain/goiov/common/mclock"
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/common/mclock"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 const (

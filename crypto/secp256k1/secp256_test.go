@@ -24,8 +24,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/carlivechain/goiov/common/math"
-	"github.com/carlivechain/goiov/crypto/randentropy"
+	"github.com/CarLiveChainCo/goiov/common/math"
+	"github.com/CarLiveChainCo/goiov/crypto/randentropy"
 )
 
 const TestCount = 1000

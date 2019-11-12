@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/carlivechain/goiov/log"
+	"github.com/CarLiveChainCo/goiov/log"
 )
 
 // Enabled is checked by the constructor functions for all of the
