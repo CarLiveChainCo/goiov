@@ -10,7 +10,7 @@ fi
 # Create fake Go workspace if it doesn't exist yet.
 workspace="$PWD/build/_workspace"
 root="$PWD"
-giovdir="$workspace/src/github.com/carlivechain"
+giovdir="$workspace/src/github.com/CarLiveChainCo"
 if [ ! -L "$giovdir/goiov" ]; then
     mkdir -p "$giovdir"
     cd "$giovdir"
