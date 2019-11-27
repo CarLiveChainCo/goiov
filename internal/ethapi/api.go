@@ -1251,8 +1251,8 @@ func submitTransaction(ctx context.Context, b Backend, tx *types.Transaction) (c
 	//	return common.Hash{}, vm.ErrMissingAppId
 	//}
 
-	return submitTransaction1(ctx, b, tx)
-	//return submitTransaction2(ctx, b, tx)
+	//return submitTransaction1(ctx, b, tx)
+	return submitTransaction2(ctx, b, tx)
 }
 
 func submitTransaction1(ctx context.Context, b Backend, tx *types.Transaction) (common.Hash, error) {
