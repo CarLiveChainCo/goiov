@@ -1,12 +1,12 @@
 # IOV Blockchain
 
+[简体中文](https://github.com/CarLiveChainCo/goiov/blob/master/README-Zh.md)｜English
+
 [The Website of CNI](cniBlockchain.com)
 
 [IOV Blockchain Certified Service Providers](http://carlivechain.mikecrm.com/1eD7faK)
 
 [IOV Blockchain Explore](iovscan.com)
-
-[中文版](https://github.com/CarLiveChainCo/goiov/blob/master/README-Zh.md)
 
 
 

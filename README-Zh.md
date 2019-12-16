@@ -2,13 +2,13 @@
 
 # IOV Blockchain
 
+简体中文｜[English](https://github.com/CarLiveChainCo/goiov/blob/master/README.md)
+
 [中科官网](cniblockchain.com)
 
 [认证服务商](http://carlivechain.mikecrm.com/1eD7faK)
 
 [IOVBlockchain浏览器](iovscan.com)
-
-[英文版](https://github.com/CarLiveChainCo/goiov/blob/master/README.md)
 
 
 
