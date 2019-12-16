@@ -6,6 +6,8 @@
 
 [IOV Blockchain Explore](iovscan.com)
 
+[中文版](https://github.com/CarLiveChainCo/goiov/blob/master/README-Zh.md)
+
 
 
 ## Introduction

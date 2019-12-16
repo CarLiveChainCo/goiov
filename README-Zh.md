@@ -8,6 +8,8 @@
 
 [IOVBlockchain浏览器](iovscan.com)
 
+[英文版](https://github.com/CarLiveChainCo/goiov/blob/master/README.md)
+
 
 
 ## 简介
